@@ -1,4 +1,4 @@
-# Convert a json file into a csv
+# Convert a CSV file into a Parquet
 This script takes in a CSV file as myInput and generates a Parquet file as myOutput.
 
 ### Prerequisites modules
